@@ -1,0 +1,110 @@
+[
+ {
+   "Svenska": "DNA",
+   "Ryska": "ДНК",
+   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/DNA_animation.gif",
+   "SvenskaKort": "DNA (förkortning av engelskans deoxyribonucleic acid) eller deoxiribonukleinsyra är det kemiska ämne som bär den genetiska informationen (även kallad arvsmassa eller genom), i samtliga av världens kända organismer (med undantag av RNA-virus). DNA-molekylen finns i identiska kopior i varje cell i en organism.",
+   "RyskaKort": "Дезоксирибонуклеи́новая кислота́ (ДНК) — макромолекула (одна из трёх основных, две другие — РНК и белки), обеспечивающая хранение, передачу из поколения в поколение и реализацию генетической программы развития и функционирования живых организмов.",
+   "LinkSV": "https://sv.wikipedia.org/wiki/DNA",
+   "LinkRY": "https://ru.wikipedia.org/wiki/Дезоксирибонуклеиновая_кислота"
+ },
+ {
+   "Svenska": "DNA-molekyler",
+   "Ryska": "Молекулы ДНК",
+   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/DNA_animation.gif",
+   "SvenskaKort": "Dess huvudsakliga funktion är att långtidsförvara information som påverkar organismernas utveckling och funktion. DNA liknas ibland vid programkod eller ett recept, eftersom det innehåller de instruktioner som behövs för att konstruera cellernas komponenter, RNA och proteiner.",
+   "RyskaKort": "Молекула ДНК хранит биологическую информацию в виде генетического кода, состоящего из последовательности нуклеотидов. ДНК содержит информацию о структуре различных видов РНК и белков.",
+   "LinkSV": "https://sv.wikipedia.org/wiki/DNA",
+   "LinkRY": "https://ru.wikipedia.org/wiki/Дезоксирибонуклеиновая_кислота"
+ },
+ {
+   "Svenska": "Elakartad tumör",
+   "Ryska": "Злокачественная опухоль",
+   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tumor_Mesothelioma2_legend.jpg",
+   "SvenskaKort": "Cancer är en grupp sjukdomar som omfattar onormal celldelning som får förmåga att tränga in i vävnad eller sprida sig till andra delar av kroppen. De vanligaste cancertumörerna är av typen carcinom. Det finns även cancertyper som inte ger upphov till någon fast tumör, exempelvis leukemier.",
+   "RyskaKort": "Злока́чественная о́пухоль — опухоль, свойства которой чаще всего (в отличие от свойств доброкачественной опухоли) делают её крайне опасной для жизни организма, что и дало основание называть её «злокачественной». Злокачественная опухоль состоит из злокачественных клеток.",
+   "LinkSV": "https://sv.wikipedia.org/wiki/Cancer",
+   "LinkRY": "https://ru.wikipedia.org/wiki/Злокачественная_опухоль"
+ },
+ {
+   "Svenska": "Elastisk brosk",
+   "Ryska": "Эластичный хрящ",
+   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Connective_Tissue_Elastic_Cartilage_%2841855667361%29.jpg/250px-Connective_Tissue_Elastic_Cartilage_%2841855667361%29.jpg",
+   "SvenskaKort": "Elastiskt brosk - hittas i till exempel öronsnibben, struplocket och väggarna i hörselgångarna. Elastiskt brosk liknar hyalint brosk men är mer rikt på elastin, ett protein som gör det stelt men fortfarande elastiskt.",
+   "RyskaKort": "Эластичный хрящ или желтый хрящ - это тип хряща , присутствующий в наружном ухе , евстахиевой трубе и надгортанник . Он содержит сети эластичных волокон и волокна коллагена II типа. Основным белком является эластин.",
+   "LinkSV": "https://sv.wikipedia.org/wiki/Brosk",
+   "LinkRY": "https://wiki5.ru/wiki/Elastic_cartilage"
+ },
+ {
+   "Svenska": "Elastiska trådar",
+   "Ryska": "Эластичные волóкна",
+   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gray377.png",
+   "SvenskaKort": "Elastiska fibrer (eller gula fibrer) är en viktig komponent i den extracellulära matrisen som består av buntar av proteiner (elastin) som produceras av ett antal olika celltyper inklusive fibroblaster, endotelceller, glatt muskulatur och luftvägsepitelceller.",
+   "RyskaKort": "Эластические волокна составлены из неупорядоченных сплетений фибрилл эластина вокруг микрофибриллярной сердцевины, состоящей из кислого гликопротеина (фибриллина).",
+   "LinkSV": "https://arquidiamantina.org/sv/elastiska-fibrer",
+   "LinkRY": "https://ru.wikipedia.org/wiki/Эластические_волокна"
+ },
+ {
+	 "Svenska": "Encelliga organismer",
+   "Ryska": "Одноклеточные организмы",
+   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ventricaria_ventricosa.JPG",
+   "SvenskaKort": "Encelliga organismer är organismer som endast består av endast en cell, och skiljer sig från flercelliga organismer som består av flera celler. De är ingen systematisk grupp, utan omfattar organismer från flera olika riken och grupperingar, bland annat alger, protozoer, bakterier och vissa svampar.",
+   "RyskaKort": "Однокле́точные органи́змы — парафилетическая группа живых организмов, тело которых состоит из одной клетки (в противоположность многоклеточным). Среди одноклеточных есть и прокариоты, и эукариоты. К ним относятся все археи, бактерии и большая часть протист, а также некоторые растения и грибы.",
+   "LinkSV": "https://sv.wikipedia.org/wiki/Encelliga_organismer",
+   "LinkRY": "https://ru.wikipedia.org/wiki/Одноклеточные_организмы"
+ },
+ {
+   "Svenska": "Endokrina körtlar",
+   "Ryska": "Эндокринные жéлезы",
+   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Illu_endocrine_system.png",
+   "SvenskaKort": "Endokrina körtlar är körtlar som producerar och utsöndrar hormoner till blodbanan. Hormonproduktionen sköts av endokrina celler. De aktiveras som regel i feedbacksystem med andra hormoner.",
+   "RyskaKort": "Эндокринные железы (от др.-греч. ἔνδον — «внутри» и ϰρίνω — «отделять, выделять»), или железы внутренней секреции, — железы и параганглии, синтезирующие гормоны, которые выделяются в кровеносные (венозные) или лимфатические капилляры.",
+   "LinkSV": "https://en.wikipedia.org/wiki/DNA",
+   "LinkRY": "https://ru.wikipedia.org/wiki/Эндокринные_железы"
+ },
+ {
+   "Svenska": "Endoplasmatiska nätverken",
+   "Ryska": "Эндоплазматические сети",
+   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cellorganeller_pic_swe_27-05-2007.png",
+   "SvenskaKort": "Endoplasmatiska nätverket, endoplasmanätet, eller endoplasmatiskt retikulum/retikel, förkortat ER (från latin reticulum endoplasmaticum det lilla nätet inuti (cell)plasman, är en organell som kan uppta upp till 10 % av eukaryota cellers cytoplasma.",
+   "RyskaKort": "Эндоплазмати́ческий рети́кулум (ЭПР) (лат. reticulum — сеточка), или эндоплазматическая сеть (ЭПС), — внутриклеточный органоид эукариотической клетки, представляющий собой разветвлённую систему из окружённых мембраной уплощённых полостей, пузырьков и канальцев.",
+   "LinkSV": "https://sv.wikipedia.org/wiki/Endokrina_k%C3%B6rtlar",
+   "LinkRY": "https://ru.wikipedia.org/wiki/Эндоплазматический_ретикулум"
+ },
+ {
+    "Svenska": "Energiutvinning",
+   "Ryska": "Добыча энергии",
+   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/1/19/Proteinsyntes_swe_pic_010607.png",
+   "SvenskaKort": "Mellan celldelningar växer cellen genom cellulär metabolism. Cellmetabolism är den process varigenom enskilda celler bearbetar näringsämnen. Metabolism delas upp i katabolism, som innebär nedbrytandet av strukturellt komplexa molekyler för att utvinna energi, anabolism är tvärtom uppbyggande reaktioner som skapar nya byggstenar i cellen.",
+   "RyskaKort": "Энергетические процессы в клетке — процессы обмена веществ, обеспечивающие снабжение клеток энергией для выполнения актов жизнедеятельности. В основном они относятся к процессам катаболизма, так как среди них важное значение имеет расщепление богатых энергией (питательных) веществ.",
+   "LinkSV": "https://sv.wikipedia.org/wiki/Cell",
+   "LinkRY": "https://ru.wikipedia.org/wiki/Энергетические_процессы_в_клетке"
+ },
+ {
+   "Svenska": "Epitelceller",
+   "Ryska": "Клетки эпителя",
+   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Microvilli-Duodenum.JPG",
+   "SvenskaKort": "Epitelceller, en typ av specialiserade celler som bygger upp epitel och olika typer av körtlar. Epitelcellerna bildar ofta sammanhängande skikt (epitel) som utgör gränsen mellan olika organ och kroppsdelar, och ingår exempelvis i slemhinnor och huden.",
+   "RyskaKort": "Эпите́лий (лат. epithelium, от греч. ἐπι- — «сверх-» и θηλή — «сосок молочной железы»), или эпителиа́льная ткань — совокупность полярных[en] дифференцированных клеток, тесно прилегающих друг к другу в виде пласта, лежащего на базальной мембране.",
+   "LinkSV": "https://sv.wikipedia.org/wiki/Epitelcell",
+   "LinkRY": "https://ru.wikipedia.org/wiki/Эпителий"
+ },
+  {
+    "Svenska": "Epitelvävnad",
+    "Ryska": "Ткань эпителия",
+    "ImgURL": "https://image.slideserve.com/222765/huden-epitelv-vnad-l.jpg",
+    "SvenskaKort": "Epitel (av grek. epi - \"på\", \"uppå\", och thele - \"bröstvårta\") är en typ av vävnad som täcker kroppens ytor och består av epitelceller. Histologiskt är epitel en mycket heterogen vävnadstyp, den har många funktioner varav några är: barriär mot omgivningen, skydd för underliggande vävnadstyper, sekretion av substanser och absorption av substanser.",
+    "RyskaKort": "Существует несколько классификаций эпителиальных тканей, однако наиболее распространена морфологическая классификация, в которой эпителии разделяют по числу слоёв (одно- или многослойные) и форме клеток (плоская, кубическая, призматическая), а также способности к ороговению.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Epitel",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Эпителий"
+  },
+  {
+    "Svenska": "Exokrina körtlar",
+    "Ryska": "Экзокринные жéлезы",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Gray1026.png",
+    "SvenskaKort": "En exokrin körtel är en körtel som utsöndrar sitt sekret via kanaler till kroppens externa miljö. Detta är i kontrast med endokrina körtlar, som insöndrar direkt i blodomloppet. Svettkörtlarna, salivkörtlarna, tårkörtlarna och bröstkörtlarna är exempel på exokrina körtlar.",
+    "RyskaKort": "Экзокри́нные же́лезы (железы внешней секреции) — железы, которые вырабатывают свои вещества (секрет) и выводят их во внешнюю среду организма (человека или животных) или в его полости (в отличие от эндокринных желез).",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Exokrin_körtel",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Экзокринные_железы"
+  }
+]

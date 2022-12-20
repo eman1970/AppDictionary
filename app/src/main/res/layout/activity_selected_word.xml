@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textAlignment="center"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    tools:context=".SelectedWordActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_weight="1"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    tools:ignore="UseCompoundDrawables,UselessParent"
+    android:showDividers="middle"
+    android:divider="@drawable/divider_drawable"
+    >
+
+        <TextView
+            android:id="@+id/tvSelectedWord"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/wikiImg"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:contentDescription="@string/wikiimg"
+            tools:ignore="ImageContrastCheck"
+            tools:srcCompat="@tools:sample/avatars"
+            />
+
+        <TextView
+            android:id="@+id/rubrikSV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pa_svenska"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvSvenskaKort"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:id="@+id/tvHorizontalSV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/linkTextSV"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingEnd="5dp"
+                    android:text="@string/linktextsv"
+                    android:textStyle="bold"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/tvLinkSV"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:text="@string/linksv" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/rubrikRY"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pa_ryska"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvRyskaKort"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="SpeakableTextPresentCheck" />
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/linkTextRY"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingEnd="5dp"
+                    android:text="@string/linktextry"
+                    android:textStyle="bold"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/tvLinkRY"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:text="@string/linkry" />
+        </LinearLayout>
+
+        </ScrollView>
+</LinearLayout>

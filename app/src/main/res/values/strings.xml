@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppDictionary</string>
+    <string name="telefon">Aa</string>
+    <string name="ryska">Ryska</string>
+    <string name="svenska">Svenska</string>
+    <string name="wikiimg">wikiImg</string>
+    <string name="pa_svenska">På svenska</string>
+    <string name="search_view">Search View</string>
+    <string name="linksv">linkSV </string>
+    <string name="tvryskakort">tvRyskaKort</string>
+    <string name="linkry">linkRY</string>
+    <string name="pa_ryska">По-русски</string>
+    <string name="search_hint">search_hint</string>
+    <string name="linktextsv">Länk:</string>
+    <string name="linktextry">Ссылка:</string>
+    <string name="to_swedish">To Swedish</string>
+    <string name="to_russian">To Russian</string>
+
+</resources>
