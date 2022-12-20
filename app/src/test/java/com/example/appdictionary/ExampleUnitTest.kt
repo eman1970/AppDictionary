@@ -1,4 +1,4 @@
-package com.example.mypizzaapp
+package com.example.appdictionary
 
 import org.junit.Test
 

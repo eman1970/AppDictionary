@@ -1,4 +1,4 @@
-package com.example.mypizzaapp
+package com.example.appdictionary
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

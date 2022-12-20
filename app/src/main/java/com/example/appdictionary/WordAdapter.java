@@ -1,4 +1,4 @@
-package com.example.mypizzaapp;
+package com.example.appdictionary;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -8,10 +8,8 @@ import android.view.ViewGroup;
 import android.widget.Filter;
 import android.widget.Filterable;
 import android.widget.TextView;
-
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -64,7 +62,7 @@ public class WordAdapter extends RecyclerView.Adapter<WordAdapter.WordAdapterVh>
     }
 
     public interface UserClickListener{
-        void selectedUser(WordModel wordModel);
+        void selectedWord(WordModel wordModel);
     }
 
     @NonNull
@@ -87,7 +85,7 @@ public class WordAdapter extends RecyclerView.Adapter<WordAdapter.WordAdapterVh>
         holder.ordRyska.setText(ordRyska);
         holder.ordSvenska.setText(ordSvenska);
 
-        holder.itemView.setOnClickListener( v -> userClickListener.selectedUser(wordModel) );
+        holder.itemView.setOnClickListener( v -> userClickListener.selectedWord(wordModel) );
 
     }
 

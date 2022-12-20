@@ -1,4 +1,4 @@
-package com.example.mypizzaapp
+package com.example.appdictionary
 
 import android.content.ContentValues
 import android.content.Intent
@@ -6,7 +6,6 @@ import android.os.Bundle
 import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.Button
 import android.widget.ImageButton
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
@@ -101,9 +100,9 @@ class ChooserActivity : AppCompatActivity(), WordAdapter2.UserClickListener {
         rvWords!!.adapter = wordAdapter2
     }
 
-    override fun selectedUser(userModel: WordModel) {
-        Toast.makeText(this, "Selected word: " + userModel.ordRyska, Toast.LENGTH_SHORT).show()
-        startActivity(Intent(this, SelectedWordActivity::class.java).putExtra("data", userModel))
+    override fun selectedWord(wordModel: WordModel) {
+        Toast.makeText(this, "Selected word: " + wordModel.ordRyska, Toast.LENGTH_SHORT).show()
+        startActivity(Intent(this, SelectedWordActivity::class.java).putExtra("data", wordModel))
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
