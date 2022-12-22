@@ -3,6 +3,9 @@ package com.example.appdictionary;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
@@ -18,7 +21,7 @@ public class SelectedWordActivity extends AppCompatActivity {
     TextView tvLinkRY;
     WordModel wordModel;
     Intent intent;
-
+    ImageButton button;
 
     @SuppressLint("MissingInflatedId")
     @Override
@@ -32,6 +35,20 @@ public class SelectedWordActivity extends AppCompatActivity {
         tvLinkSV = findViewById(R.id.tvLinkSV);
         tvLinkRY = findViewById(R.id.tvLinkRY);
         intent = getIntent();
+        button = findViewById( R.id.button );
+
+
+
+        button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View view) {
+                Intent myIntent = new Intent(view.getContext(), MainActivity.class);
+                startActivityForResult(myIntent, 0);
+            }
+
+        });
+
+
+
 
         if(intent != null){
 
@@ -53,5 +70,10 @@ public class SelectedWordActivity extends AppCompatActivity {
 
         }
 
+
     }
+
+
+
+
 }
