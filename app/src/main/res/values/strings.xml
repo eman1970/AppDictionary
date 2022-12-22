@@ -15,5 +15,7 @@
     <string name="linktextry">Ссылка:</string>
     <string name="to_swedish">To Swedish</string>
     <string name="to_russian">To Russian</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
 
 </resources>
