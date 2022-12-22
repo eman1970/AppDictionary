@@ -78,7 +78,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:autoLink="web"
-                            android:text="@string/linksv" />
+                            android:text="@string/linksv"
+                            android:textColorLink="#194181" />
 
                 </LinearLayout>
 
@@ -120,7 +121,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:autoLink="web"
-                            android:text="@string/linkry" />
+                            android:text="@string/linkry"
+                            android:textColorLink="#194181" />
 
                 </LinearLayout>
 
