@@ -9,6 +9,6 @@ android:id="@+id/searchView"
     app:actionViewClass="androidx.appcompat.widget.SearchView"
     android:queryHint="@string/search_hint"
     android:iconifiedByDefault="true"
-
+    android:iconTint="@color/white"
     />
 </menu>
