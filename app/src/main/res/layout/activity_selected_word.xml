@@ -82,54 +82,46 @@
 
                 </LinearLayout>
 
-                <LinearLayout
+                <TextView
+                    android:id="@+id/rubrikRY"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:isScrollContainer="true"
-                    android:orientation="vertical"
-                    android:scrollbars="vertical">
+                    android:layout_marginLeft="4dp"
+                    android:layout_marginRight="4dp"
+                    android:text="@string/pa_ryska"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvRyskaKort"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dp"
+                    android:layout_marginRight="4dp" />
+
+                <LinearLayout
+                    android:id="@+id/tvHorizontalRY"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
 
                         <TextView
-                            android:id="@+id/rubrikRY"
-                            android:layout_width="match_parent"
+                            android:id="@+id/linkTextRY"
+                            android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="4dp"
                             android:layout_marginRight="4dp"
-                            android:text="@string/pa_ryska"
-                            android:textStyle="bold" />
+                            android:paddingEnd="5dp"
+                            android:text="@string/linktextsv"
+                            android:textStyle="bold"
+                            tools:ignore="RtlSymmetry" />
 
                         <TextView
-                            android:id="@+id/tvRyskaKort"
-                            android:layout_width="match_parent"
+                            android:id="@+id/tvLinkRY"
+                            android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="4dp"
-                            android:layout_marginRight="4dp"
-                            tools:ignore="SpeakableTextPresentCheck" />
+                            android:autoLink="web"
+                            android:text="@string/linksv" />
 
-                        <LinearLayout
-                            android:id="@+id/tvHorizontalRY"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:orientation="horizontal">
-
-                                <TextView
-                                    android:id="@+id/linkTextRY"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_marginLeft="4dp"
-                                    android:layout_marginRight="4dp"
-                                    android:paddingEnd="5dp"
-                                    android:text="@string/linktextry"
-                                    android:textStyle="bold"
-                                    tools:ignore="RtlSymmetry" />
-
-                                <TextView
-                                    android:id="@+id/tvLinkRY"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:autoLink="web"
-                                    android:text="@string/linkry" />
-                        </LinearLayout>
                 </LinearLayout>
 
 
