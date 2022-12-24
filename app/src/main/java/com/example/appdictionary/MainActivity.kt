@@ -27,8 +27,8 @@ import kotlin.collections.ArrayList
 
 class MainActivity : AppCompatActivity(), WordAdapter.UserClickListener {
     var rvWords: RecyclerView? = null
-var wordAdapter: WordAdapter? = null
-var wordModelList: MutableList<WordModel> = ArrayList()
+    var wordAdapter: WordAdapter? = null
+    var wordModelList: MutableList<WordModel> = ArrayList()
 @SuppressLint("SuspiciousIndentation")
 override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
@@ -37,7 +37,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
     prepareRecyclerView()
     addItemFromJSON()
 
-    var ImageButton = findViewById<ImageButton>(R.id.button)
+    val ImageButton = findViewById<ImageButton>(R.id.button)
         ImageButton.setOnClickListener {
         val intent = Intent(this, ChooserActivity::class.java)
         startActivity(intent)
