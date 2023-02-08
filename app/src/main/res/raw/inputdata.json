@@ -155,20 +155,20 @@
   {
     "Svenska": "Fortleda impulser",
     "Ryska": "Передавать импульсы",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
+    "ImgURL": "https://libtime.ru/wp-content/uploads/2015/10/nervnyye-impulsy.jpg",
+    "SvenskaKort": "",
     "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "LinkSV": "https://sv.wikipedia.org/wiki/Rörelsemängd",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Импульс"
   },
   {
     "Svenska": "Fortplantning",
     "Ryska": "Размножение",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pyrrhososma_nymphula_Luc_Viatour.jpg/1024px-Pyrrhososma_nymphula_Luc_Viatour.jpg",
+    "SvenskaKort": "Fortplantning, även förökning eller reproduktion, kallas det när djur, människor eller växter förökar sig och för livet vidare till en ny generation. Förökningen kan hindras av andra arter eller begränsade resurser.[1]",
+    "RyskaKort": "Размноже́ние, репроду́кция, воспроизво́дство — присущее всем живым организмам свойство воспроизведения себе подобных, обеспечивающее непрерывность и преемственность жизни. Способы размножения подразделяются на два основных типа: бесполое и половое.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Fortplantning",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Размножение"
   },
   {
     "Svenska": "Fortplantningsapparat",
