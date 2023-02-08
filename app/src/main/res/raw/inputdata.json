@@ -1,97 +1,97 @@
 [
- {
-   "Svenska": "DNA",
-   "Ryska": "ДНК",
-   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/DNA_animation.gif",
-   "SvenskaKort": "DNA (förkortning av engelskans deoxyribonucleic acid) eller deoxiribonukleinsyra är det kemiska ämne som bär den genetiska informationen (även kallad arvsmassa eller genom), i samtliga av världens kända organismer (med undantag av RNA-virus). DNA-molekylen finns i identiska kopior i varje cell i en organism.",
-   "RyskaKort": "Дезоксирибонуклеи́новая кислота́ (ДНК) — макромолекула (одна из трёх основных, две другие — РНК и белки), обеспечивающая хранение, передачу из поколения в поколение и реализацию генетической программы развития и функционирования живых организмов.",
-   "LinkSV": "https://sv.wikipedia.org/wiki/DNA",
-   "LinkRY": "https://ru.wikipedia.org/wiki/Дезоксирибонуклеиновая_кислота"
- },
- {
-   "Svenska": "DNA-molekyler",
-   "Ryska": "Молекулы ДНК",
-   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/DNA_animation.gif",
-   "SvenskaKort": "Dess huvudsakliga funktion är att långtidsförvara information som påverkar organismernas utveckling och funktion. DNA liknas ibland vid programkod eller ett recept, eftersom det innehåller de instruktioner som behövs för att konstruera cellernas komponenter, RNA och proteiner.",
-   "RyskaKort": "Молекула ДНК хранит биологическую информацию в виде генетического кода, состоящего из последовательности нуклеотидов. ДНК содержит информацию о структуре различных видов РНК и белков.",
-   "LinkSV": "https://sv.wikipedia.org/wiki/DNA",
-   "LinkRY": "https://ru.wikipedia.org/wiki/Дезоксирибонуклеиновая_кислота"
- },
- {
-   "Svenska": "Elakartad tumör",
-   "Ryska": "Злокачественная опухоль",
-   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tumor_Mesothelioma2_legend.jpg",
-   "SvenskaKort": "Cancer är en grupp sjukdomar som omfattar onormal celldelning som får förmåga att tränga in i vävnad eller sprida sig till andra delar av kroppen. De vanligaste cancertumörerna är av typen carcinom. Det finns även cancertyper som inte ger upphov till någon fast tumör, exempelvis leukemier.",
-   "RyskaKort": "Злока́чественная о́пухоль — опухоль, свойства которой чаще всего (в отличие от свойств доброкачественной опухоли) делают её крайне опасной для жизни организма, что и дало основание называть её «злокачественной». Злокачественная опухоль состоит из злокачественных клеток.",
-   "LinkSV": "https://sv.wikipedia.org/wiki/Cancer",
-   "LinkRY": "https://ru.wikipedia.org/wiki/Злокачественная_опухоль"
- },
- {
-   "Svenska": "Elastisk brosk",
-   "Ryska": "Эластичный хрящ",
-   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Connective_Tissue_Elastic_Cartilage_%2841855667361%29.jpg/250px-Connective_Tissue_Elastic_Cartilage_%2841855667361%29.jpg",
-   "SvenskaKort": "Elastiskt brosk - hittas i till exempel öronsnibben, struplocket och väggarna i hörselgångarna. Elastiskt brosk liknar hyalint brosk men är mer rikt på elastin, ett protein som gör det stelt men fortfarande elastiskt.",
-   "RyskaKort": "Эластичный хрящ или желтый хрящ - это тип хряща , присутствующий в наружном ухе , евстахиевой трубе и надгортанник . Он содержит сети эластичных волокон и волокна коллагена II типа. Основным белком является эластин.",
-   "LinkSV": "https://sv.wikipedia.org/wiki/Brosk",
-   "LinkRY": "https://wiki5.ru/wiki/Elastic_cartilage"
- },
- {
-   "Svenska": "Elastiska trådar",
-   "Ryska": "Эластичные волóкна",
-   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gray377.png",
-   "SvenskaKort": "Elastiska fibrer (eller gula fibrer) är en viktig komponent i den extracellulära matrisen som består av buntar av proteiner (elastin) som produceras av ett antal olika celltyper inklusive fibroblaster, endotelceller, glatt muskulatur och luftvägsepitelceller.",
-   "RyskaKort": "Эластические волокна составлены из неупорядоченных сплетений фибрилл эластина вокруг микрофибриллярной сердцевины, состоящей из кислого гликопротеина (фибриллина).",
-   "LinkSV": "https://arquidiamantina.org/sv/elastiska-fibrer",
-   "LinkRY": "https://ru.wikipedia.org/wiki/Эластические_волокна"
- },
- {
-	 "Svenska": "Encelliga organismer",
-   "Ryska": "Одноклеточные организмы",
-   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ventricaria_ventricosa.JPG",
-   "SvenskaKort": "Encelliga organismer är organismer som endast består av endast en cell, och skiljer sig från flercelliga organismer som består av flera celler. De är ingen systematisk grupp, utan omfattar organismer från flera olika riken och grupperingar, bland annat alger, protozoer, bakterier och vissa svampar.",
-   "RyskaKort": "Однокле́точные органи́змы — парафилетическая группа живых организмов, тело которых состоит из одной клетки (в противоположность многоклеточным). Среди одноклеточных есть и прокариоты, и эукариоты. К ним относятся все археи, бактерии и большая часть протист, а также некоторые растения и грибы.",
-   "LinkSV": "https://sv.wikipedia.org/wiki/Encelliga_organismer",
-   "LinkRY": "https://ru.wikipedia.org/wiki/Одноклеточные_организмы"
- },
- {
-   "Svenska": "Endokrina körtlar",
-   "Ryska": "Эндокринные жéлезы",
-   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Illu_endocrine_system.png",
-   "SvenskaKort": "Endokrina körtlar är körtlar som producerar och utsöndrar hormoner till blodbanan. Hormonproduktionen sköts av endokrina celler. De aktiveras som regel i feedbacksystem med andra hormoner.",
-   "RyskaKort": "Эндокринные железы (от др.-греч. ἔνδον — «внутри» и ϰρίνω — «отделять, выделять»), или железы внутренней секреции, — железы и параганглии, синтезирующие гормоны, которые выделяются в кровеносные (венозные) или лимфатические капилляры.",
-   "LinkSV": "https://en.wikipedia.org/wiki/DNA",
-   "LinkRY": "https://ru.wikipedia.org/wiki/Эндокринные_железы"
- },
- {
-   "Svenska": "Endoplasmatiska nätverken",
-   "Ryska": "Эндоплазматические сети",
-   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cellorganeller_pic_swe_27-05-2007.png",
-   "SvenskaKort": "Endoplasmatiska nätverket, endoplasmanätet, eller endoplasmatiskt retikulum/retikel, förkortat ER (från latin reticulum endoplasmaticum det lilla nätet inuti (cell)plasman, är en organell som kan uppta upp till 10 % av eukaryota cellers cytoplasma.",
-   "RyskaKort": "Эндоплазмати́ческий рети́кулум (ЭПР) (лат. reticulum — сеточка), или эндоплазматическая сеть (ЭПС), — внутриклеточный органоид эукариотической клетки, представляющий собой разветвлённую систему из окружённых мембраной уплощённых полостей, пузырьков и канальцев.",
-   "LinkSV": "https://sv.wikipedia.org/wiki/Endokrina_k%C3%B6rtlar",
-   "LinkRY": "https://ru.wikipedia.org/wiki/Эндоплазматический_ретикулум"
- },
- {
+  {
+    "Svenska": "DNA",
+    "Ryska": "ДНК",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/DNA_animation.gif",
+    "SvenskaKort": "DNA (förkortning av engelskans deoxyribonucleic acid) eller deoxiribonukleinsyra är det kemiska ämne som bär den genetiska informationen (även kallad arvsmassa eller genom), i samtliga av världens kända organismer (med undantag av RNA-virus). DNA-molekylen finns i identiska kopior i varje cell i en organism.",
+    "RyskaKort": "Дезоксирибонуклеи́новая кислота́ (ДНК) — макромолекула (одна из трёх основных, две другие — РНК и белки), обеспечивающая хранение, передачу из поколения в поколение и реализацию генетической программы развития и функционирования живых организмов.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/DNA",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Дезоксирибонуклеиновая_кислота"
+  },
+  {
+    "Svenska": "DNA-molekyler",
+    "Ryska": "Молекулы ДНК",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/DNA_animation.gif",
+    "SvenskaKort": "Dess huvudsakliga funktion är att långtidsförvara information som påverkar organismernas utveckling och funktion. DNA liknas ibland vid programkod eller ett recept, eftersom det innehåller de instruktioner som behövs för att konstruera cellernas komponenter, RNA och proteiner.",
+    "RyskaKort": "Молекула ДНК хранит биологическую информацию в виде генетического кода, состоящего из последовательности нуклеотидов. ДНК содержит информацию о структуре различных видов РНК и белков.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/DNA",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Дезоксирибонуклеиновая_кислота"
+  },
+  {
+    "Svenska": "Elakartad tumör",
+    "Ryska": "Злокачественная опухоль",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tumor_Mesothelioma2_legend.jpg",
+    "SvenskaKort": "Cancer är en grupp sjukdomar som omfattar onormal celldelning som får förmåga att tränga in i vävnad eller sprida sig till andra delar av kroppen. De vanligaste cancertumörerna är av typen carcinom. Det finns även cancertyper som inte ger upphov till någon fast tumör, exempelvis leukemier.",
+    "RyskaKort": "Злока́чественная о́пухоль — опухоль, свойства которой чаще всего (в отличие от свойств доброкачественной опухоли) делают её крайне опасной для жизни организма, что и дало основание называть её «злокачественной». Злокачественная опухоль состоит из злокачественных клеток.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Cancer",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Злокачественная_опухоль"
+  },
+  {
+    "Svenska": "Elastisk brosk",
+    "Ryska": "Эластичный хрящ",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Connective_Tissue_Elastic_Cartilage_%2841855667361%29.jpg/250px-Connective_Tissue_Elastic_Cartilage_%2841855667361%29.jpg",
+    "SvenskaKort": "Elastiskt brosk - hittas i till exempel öronsnibben, struplocket och väggarna i hörselgångarna. Elastiskt brosk liknar hyalint brosk men är mer rikt på elastin, ett protein som gör det stelt men fortfarande elastiskt.",
+    "RyskaKort": "Эластичный хрящ или желтый хрящ - это тип хряща , присутствующий в наружном ухе , евстахиевой трубе и надгортанник . Он содержит сети эластичных волокон и волокна коллагена II типа. Основным белком является эластин.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Brosk",
+    "LinkRY": "https://wiki5.ru/wiki/Elastic_cartilage"
+  },
+  {
+    "Svenska": "Elastiska trådar",
+    "Ryska": "Эластичные волóкна",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gray377.png",
+    "SvenskaKort": "Elastiska fibrer (eller gula fibrer) är en viktig komponent i den extracellulära matrisen som består av buntar av proteiner (elastin) som produceras av ett antal olika celltyper inklusive fibroblaster, endotelceller, glatt muskulatur och luftvägsepitelceller.",
+    "RyskaKort": "Эластические волокна составлены из неупорядоченных сплетений фибрилл эластина вокруг микрофибриллярной сердцевины, состоящей из кислого гликопротеина (фибриллина).",
+    "LinkSV": "https://arquidiamantina.org/sv/elastiska-fibrer",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Эластические_волокна"
+  },
+  {
+    "Svenska": "Encelliga organismer",
+    "Ryska": "Одноклеточные организмы",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ventricaria_ventricosa.JPG",
+    "SvenskaKort": "Encelliga organismer är organismer som endast består av endast en cell, och skiljer sig från flercelliga organismer som består av flera celler. De är ingen systematisk grupp, utan omfattar organismer från flera olika riken och grupperingar, bland annat alger, protozoer, bakterier och vissa svampar.",
+    "RyskaKort": "Однокле́точные органи́змы — парафилетическая группа живых организмов, тело которых состоит из одной клетки (в противоположность многоклеточным). Среди одноклеточных есть и прокариоты, и эукариоты. К ним относятся все археи, бактерии и большая часть протист, а также некоторые растения и грибы.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Encelliga_organismer",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Одноклеточные_организмы"
+  },
+  {
+    "Svenska": "Endokrina körtlar",
+    "Ryska": "Эндокринные жéлезы",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Illu_endocrine_system.png",
+    "SvenskaKort": "Endokrina körtlar är körtlar som producerar och utsöndrar hormoner till blodbanan. Hormonproduktionen sköts av endokrina celler. De aktiveras som regel i feedbacksystem med andra hormoner.",
+    "RyskaKort": "Эндокринные железы (от др.-греч. ἔνδον — «внутри» и ϰρίνω — «отделять, выделять»), или железы внутренней секреции, — железы и параганглии, синтезирующие гормоны, которые выделяются в кровеносные (венозные) или лимфатические капилляры.",
+    "LinkSV": "https://en.wikipedia.org/wiki/DNA",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Эндокринные_железы"
+  },
+  {
+    "Svenska": "Endoplasmatiska nätverken",
+    "Ryska": "Эндоплазматические сети",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cellorganeller_pic_swe_27-05-2007.png",
+    "SvenskaKort": "Endoplasmatiska nätverket, endoplasmanätet, eller endoplasmatiskt retikulum/retikel, förkortat ER (från latin reticulum endoplasmaticum det lilla nätet inuti (cell)plasman, är en organell som kan uppta upp till 10 % av eukaryota cellers cytoplasma.",
+    "RyskaKort": "Эндоплазмати́ческий рети́кулум (ЭПР) (лат. reticulum — сеточка), или эндоплазматическая сеть (ЭПС), — внутриклеточный органоид эукариотической клетки, представляющий собой разветвлённую систему из окружённых мембраной уплощённых полостей, пузырьков и канальцев.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Endokrina_k%C3%B6rtlar",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Эндоплазматический_ретикулум"
+  },
+  {
     "Svenska": "Energiutvinning",
-   "Ryska": "Добыча энергии",
-   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/1/19/Proteinsyntes_swe_pic_010607.png",
-   "SvenskaKort": "Mellan celldelningar växer cellen genom cellulär metabolism. Cellmetabolism är den process varigenom enskilda celler bearbetar näringsämnen. Metabolism delas upp i katabolism, som innebär nedbrytandet av strukturellt komplexa molekyler för att utvinna energi, anabolism är tvärtom uppbyggande reaktioner som skapar nya byggstenar i cellen.",
-   "RyskaKort": "Энергетические процессы в клетке — процессы обмена веществ, обеспечивающие снабжение клеток энергией для выполнения актов жизнедеятельности. В основном они относятся к процессам катаболизма, так как среди них важное значение имеет расщепление богатых энергией (питательных) веществ.",
-   "LinkSV": "https://sv.wikipedia.org/wiki/Cell",
-   "LinkRY": "https://ru.wikipedia.org/wiki/Энергетические_процессы_в_клетке"
- },
- {
-   "Svenska": "Epitelceller",
-   "Ryska": "Клетки эпителя",
-   "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Microvilli-Duodenum.JPG",
-   "SvenskaKort": "Epitelceller, en typ av specialiserade celler som bygger upp epitel och olika typer av körtlar. Epitelcellerna bildar ofta sammanhängande skikt (epitel) som utgör gränsen mellan olika organ och kroppsdelar, och ingår exempelvis i slemhinnor och huden.",
-   "RyskaKort": "Эпите́лий (лат. epithelium, от греч. ἐπι- — «сверх-» и θηλή — «сосок молочной железы»), или эпителиа́льная ткань — совокупность полярных[en] дифференцированных клеток, тесно прилегающих друг к другу в виде пласта, лежащего на базальной мембране.",
-   "LinkSV": "https://sv.wikipedia.org/wiki/Epitelcell",
-   "LinkRY": "https://ru.wikipedia.org/wiki/Эпителий"
- },
+    "Ryska": "Добыча энергии",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/1/19/Proteinsyntes_swe_pic_010607.png",
+    "SvenskaKort": "Mellan celldelningar växer cellen genom cellulär metabolism. Cellmetabolism är den process varigenom enskilda celler bearbetar näringsämnen. Metabolism delas upp i katabolism, som innebär nedbrytandet av strukturellt komplexa molekyler för att utvinna energi, anabolism är tvärtom uppbyggande reaktioner som skapar nya byggstenar i cellen.",
+    "RyskaKort": "Энергетические процессы в клетке — процессы обмена веществ, обеспечивающие снабжение клеток энергией для выполнения актов жизнедеятельности. В основном они относятся к процессам катаболизма, так как среди них важное значение имеет расщепление богатых энергией (питательных) веществ.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Cell",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Энергетические_процессы_в_клетке"
+  },
+  {
+    "Svenska": "Epitelceller",
+    "Ryska": "Эпителиальные клетки, клетки эпителя",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Microvilli-Duodenum.JPG",
+    "SvenskaKort": "Epitelceller, en typ av specialiserade celler som bygger upp epitel och olika typer av körtlar. Epitelcellerna bildar ofta sammanhängande skikt (epitel) som utgör gränsen mellan olika organ och kroppsdelar, och ingår exempelvis i slemhinnor och huden.",
+    "RyskaKort": "Эпите́лий (лат. epithelium, от греч. ἐπι- — «сверх-» и θηλή — «сосок молочной железы»), или эпителиа́льная ткань — совокупность полярных[en] дифференцированных клеток, тесно прилегающих друг к другу в виде пласта, лежащего на базальной мембране.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Epitelcell",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Эпителий"
+  },
   {
     "Svenska": "Epitelvävnad",
-    "Ryska": "Ткань эпителия",
+    "Ryska": "Эпителиальная ткань, ткань эпителия",
     "ImgURL": "https://image.slideserve.com/222765/huden-epitelv-vnad-l.jpg",
     "SvenskaKort": "Epitel (av grek. epi - \"på\", \"uppå\", och thele - \"bröstvårta\") är en typ av vävnad som täcker kroppens ytor och består av epitelceller. Histologiskt är epitel en mycket heterogen vävnadstyp, den har många funktioner varav några är: barriär mot omgivningen, skydd för underliggande vävnadstyper, sekretion av substanser och absorption av substanser.",
     "RyskaKort": "Существует несколько классификаций эпителиальных тканей, однако наиболее распространена морфологическая классификация, в которой эпителии разделяют по числу слоёв (одно- или многослойные) и форме клеток (плоская, кубическая, призматическая), а также способности к ороговению.",
@@ -106,5 +106,787 @@
     "RyskaKort": "Экзокри́нные же́лезы (железы внешней секреции) — железы, которые вырабатывают свои вещества (секрет) и выводят их во внешнюю среду организма (человека или животных) или в его полости (в отличие от эндокринных желез).",
     "LinkSV": "https://sv.wikipedia.org/wiki/Exokrin_körtel",
     "LinkRY": "https://ru.wikipedia.org/wiki/Экзокринные_железы"
+  },
+  {
+    "Svenska": "Farmakologisk behandling",
+    "Ryska": "Фармакологическое лечение",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/b/be/RECEPTOR.GIF",
+    "SvenskaKort": "Farmakologi, ungefär läkemedelslära, är studiet av hur substanser interagerar med levande organismer för att åstadkomma en funktionsändring.[1]",
+    "RyskaKort": "Фармаколо́гия (от греч. φάρμακον «лекарство» + λόγος «слово, учение») — медико-биологическая наука о лекарственных веществах и их действии на организм; в более широком смысле — наука о физиологически активных веществах вообще[1].",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Farmakologi",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Фармакология"
+  },
+  {
+    "Svenska": "Fettväv",
+    "Ryska": "Жировáя ткань",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Blausen_0012_AdiposeTissue.png/1280px-Blausen_0012_AdiposeTissue.png",
+    "SvenskaKort": "Fettvävnad är en specialiserad bindväv som finns i den mänskliga kroppen. Fettvävnad består i huvudsak av fettceller.",
+    "RyskaKort": "Жирова́я ткань — разновидность соединительной ткани животных, образующаяся из мезенхимы и состоящая из специализированных клеток, накапливающих жиры — адипоцитов.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Fettvävnad",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Жировая_ткань"
+  },
+  {
+    "Svenska": "Flercelliga organismer",
+    "Ryska": "Многоклеточные организмы",
+    "ImgURL": "https://www.varldenshaftigaste.se/topplistor/livets-utveckling-manniskans-12-storsta-evolutionara-steg/eudorina.jpg",
+    "SvenskaKort": "Man är inte säker på hur flercelligt liv uppkom. Det finns flera konkurrerande hypoteser; encelliga organismer av olika art kan ha ingått symbios. En organism med flera cellkärnor kan ha bildat cellmembran mellan kärnorna. Ytterligare en möjlighet är att likadana organismer bildat en gemensam koloni där cellerna specialiserat sig. De första flercelliga organismerna uppstod för omkring 660–635 miljoner år sedan med svampdjur.",
+    "RyskaKort": "Многокле́точный органи́зм — внесистематическая категория живых организмов, тело которых состоит из многих клеток, большая часть которых (кроме стволовых клеток, таких как, например, клетки камбия у растений) дифференцирована, то есть они различаются по строению и выполняемым функциям.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Flercellig_organism",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Многоклеточный_организм"
+  },
+  {
+    "Svenska": "Flytande vävnader",
+    "Ryska": "Жидкие ткани",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hist.Technik_%282%29.jpg/1280px-Hist.Technik_%282%29.jpg",
+    "SvenskaKort": "Vävnad i blod- och lymfkärl som ombesörjer transporten mellan kroppsdelarna och bidrar till immunförsvaret.[3]",
+    "RyskaKort": "Межклеточное вещество соединительных тканей (внеклеточный матрикс) содержит множество разных органических и неорганических соединений, от количества и состава которых зависит консистенция ткани. Кровь и лимфа, относимые к жидким соединительным тканям, содержат жидкое межклеточное вещество — плазму.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Bindväv",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Соединительная_ткань"
+  },
+  {
+    "Svenska": "Fogar (Symfys)",
+    "Ryska": "Суставы (Симфиз)",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/7/78/Symphysis_Pubis.png",
+    "SvenskaKort": "Symfys (grek. symfysis; sammanväxning, förening), är en anatomisk term, ursprungligen namn på alla föreningar mellan skelettets ben, men numera benämning endast på det slags benförening som är uppbyggd av brosk. mer allmänt kallas de synkondros (av kondros, brosk).",
+    "RyskaKort": "Симфи́з (син. гемиартроз) — переходное соединение между костями скелета. Обычно это фиброзное или хрящевое соединение, внутри которого находится узкая щелевидная полость. Снаружи симфиз не покрыт капсулой, а внутренняя поверхность щели не покрыта синовиальной оболочкой.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Symfys",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Симфиз"
+  },
+  {
+    "Svenska": "Fortleda impulser",
+    "Ryska": "Передавать импульсы",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Fortplantning",
+    "Ryska": "Размножение",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Fortplantningsapparat",
+    "Ryska": "Органы размножения",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Förbränning (energi i cellen)",
+    "Ryska": "Сжигание (энергии в клетке)",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Glatt muskulatur",
+    "Ryska": "Гладкая мускулатура",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Gliaceller",
+    "Ryska": "Глиальные клетки",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Godartad tumör",
+    "Ryska": "Доброкачественная опухоль",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Inälvor",
+    "Ryska": "Внутренные органы",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Kalciumfosfat",
+    "Ryska": "Фосфат кальция",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Kalciumkarbonat",
+    "Ryska": "Карбонат кальция",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Kapsel",
+    "Ryska": "Капсула",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Kolhydrater",
+    "Ryska": "Углеводы",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Kollagena trådar",
+    "Ryska": "Коллáгеновые волóкна",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Kontraktionsförmåga",
+    "Ryska": "Возможность к сокращению",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Kortlivade",
+    "Ryska": "Недолговечныe",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Kromosomer",
+    "Ryska": "Хромосомы",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Kromosomuppsättning",
+    "Ryska": "Набор хромосом",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Kärna",
+    "Ryska": "Ядро",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Könsceller",
+    "Ryska": "Половые клетки",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Körtel",
+    "Ryska": "Желéза",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Körtelepitel",
+    "Ryska": "Желéзистый эпителий",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Leder",
+    "Ryska": "Суставы",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Lucker bindväv",
+    "Ryska": "Рыхлая соединительная ткань",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Luktepitel",
+    "Ryska": "Обонятельный эпителий",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Lymfan",
+    "Ryska": "Лимфа",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Lymfbana",
+    "Ryska": "Лимфатическая система",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Lymfplasma",
+    "Ryska": "Лимфоплазма",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Matsmältningsorgan",
+    "Ryska": "Органы пищеварения",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Meios (reduktion av celldelning)",
+    "Ryska": "Меиос (редукционное деление клеток)",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Metastaser",
+    "Ryska": "Метастазы",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Mitokondrier",
+    "Ryska": "Митохондрии",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Mitos (processen för själva celldelningen)",
+    "Ryska": "Митоз (процесс собственно деления клеток)",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Modercell",
+    "Ryska": "Материнская клетка",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Muskelceller",
+    "Ryska": "Мышечные клетки, клетки мышечной ткани",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Muskelsystemet",
+    "Ryska": "Мышечная система",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Muskelvävnad",
+    "Ryska": "Мускулатура",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Nervceller",
+    "Ryska": "Нервные клетки",
+    "ImgURL": " ",
+    "SvenskaKort": " ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Nervsystem",
+    "Ryska": "Нервная система",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Nervvävnad",
+    "Ryska": "Нервная ткань",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Näringsreserv",
+    "Ryska": "Ресерв питательных веществ",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Näringstillförsel",
+    "Ryska": "Обечпечение питания",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Näringsupptagande",
+    "Ryska": "Усвоение питательных веществ",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Närliggande vävnad",
+    "Ryska": "Окружающая ткань (об опухоли)",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Onkologisk klinik",
+    "Ryska": "Онкологическая клиника",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Operativ behandling",
+    "Ryska": "Оперативное лечение, хирургия",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Organ",
+    "Ryska": "Орган",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Organeller",
+    "Ryska": "Органеллы",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Organsystem",
+    "Ryska": "Система органов",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Proteinsyntes",
+    "Ryska": "Синтез белка",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Protoplasma",
+    "Ryska": "Протоплазма",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Radiologisk behandling",
+    "Ryska": "Радиологическое лечение (клеток)",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Reduktionsdelning",
+    "Ryska": "Редукционное деление",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Regenerera",
+    "Ryska": "Регенерация, регенерировать, возрождаться",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Retbarhet",
+    "Ryska": "Раздражимость",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Retning",
+    "Ryska": "Раздражение",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Rörelse",
+    "Ryska": "Движение",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Rörelseapparaten",
+    "Ryska": "Опорно-двигательный аппарат",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Rörelseförmåga",
+    "Ryska": "Мобильность, поддвижность, способность двигаться",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Salter",
+    "Ryska": "Соли",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Sinnesepitel",
+    "Ryska": "Рецепторный / эпителийный эпителий",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Sinnesorgan",
+    "Ryska": "Органы чувств",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Sinnesverksamhet",
+    "Ryska": "Работа органов чувств",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Skelettsystemet",
+    "Ryska": "Скелетная система",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Somatiska kromosomer",
+    "Ryska": "Соматические хромосомы",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Spermier",
+    "Ryska": "Сперма",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Svulst",
+    "Ryska": "Узел óпухоли",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Trådbrosk",
+    "Ryska": "Волокнистый хрящ",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Tumör",
+    "Ryska": "Óпухоль",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Tvärstrimmig hjärtmuskulatur",
+    "Ryska": "Поперечнополосатые сердечные мышцы",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Tvärstrimmig skelettmuskulatur",
+    "Ryska": "Поперечнополосатые скелетные мышцы",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Uppslammade celler",
+    "Ryska": "Взвешенные (в крови) клетки",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Utförsgång",
+    "Ryska": "Выводной проток",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Utsöndringsorgan",
+    "Ryska": "Органы выделения",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Vävnad",
+    "Ryska": "Ткань",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Vävnadsbildning",
+    "Ryska": "Тканеобразование",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Vävnadsvätska",
+    "Ryska": "Тканевая жидкость",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Ytepitel",
+    "Ryska": "Покровный эпителий",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Äggcell",
+    "Ryska": "Яйцеклетка",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Äggvita",
+    "Ryska": "Белок",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Ämnesomsättning",
+    "Ryska": "Обмен веществ",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Ämnesomsättningsapparaten",
+    "Ryska": "Аппарат, осуществлющий обмен веществ",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Ämnesomsättningsförmåga",
+    "Ryska": "Способность осуществлять обмен веществ",
+    "ImgURL": " ",
+    "SvenskaKort": "  ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
   }
 ]
