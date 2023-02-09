@@ -227,11 +227,11 @@
   {
     "Svenska": "Kalciumfosfat",
     "Ryska": "Фосфат кальция",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ca3%28PO4%292_from_crystallography.jpg",
+    "SvenskaKort": "Kalciumfosfat, eller mer specifikt trikalciumdifosfat, är ett salt av kalcium och fosforsyra med formeln Ca3(PO4)2. Det förekommer naturligt i mineralet Apatit. Skelett och tänder hos ryggradsdjur är till största delen uppbyggt av kalciumfosfat.",
+    "RyskaKort": "Ортофосфа́т ка́льция (трикальцийфосфат) — неорганическое вещество, соль кальция и ортофосфорной кислоты с химической формулой Ca3(PO4)2. Существует в виде двух модификаций (α и β), отличающихся физическими свойствами. Содержится в костной ткани, входит в состав минералов.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Kalciumfosfat",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Ортофосфат_кальция"
   },
   {
     "Svenska": "Kalciumkarbonat",
