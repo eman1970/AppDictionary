@@ -245,65 +245,65 @@
   {
     "Svenska": "Kapsel",
     "Ryska": "Капсула",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/3/33/Kapsel_beredningsform.jpg",
+    "SvenskaKort": "En kapsel är en farmaceutisk beredningsform avsedd att intas oralt. Kapseln är ofta tillverkad av gelatin och består av två halvor som kan fogas ihop. Kapseln fylls med ett pulver eller granulat innehållande den aktiva läkemedelssubstansen.",
+    "RyskaKort": "Ка́псула (от лат. capsula — ящичек, ларчик, шкатулка) — дозированная лекарственная форма, состоящая из твердой или мягкой желатиновой или иногда агаровой оболочки (ранее — крахмальной облатки), содержащей инкапсулят — одно или несколько активных действующих веществ, с добавлением или без вспомогательных веществ.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Kapsel_(beredningsform)",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Капсула_(лекарственная_форма)"
   },
   {
     "Svenska": "Kolhydrater",
     "Ryska": "Углеводы",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Cellulose-3D-balls.png",
+    "SvenskaKort": "Kolhydrater är en grupp näringsämnen och ett gemensamt namn för sockerarter (sackarider) såväl enstaka sockermolekyler (monosackarider) som sockermolekyler sammankopplade i kedjor (polysackarider).",
+    "RyskaKort": "Углево́ды (глици́ды) — органические вещества, содержащие карбонильную группу и несколько гидроксильных групп[1]. Название этого класса соединений происходит от слов «гидраты углерода», оно было предложено Карлом Шмидтом в 1844 году.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Kolhydrat",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Углеводы"
   },
   {
     "Svenska": "Kollagena trådar",
     "Ryska": "Коллáгеновые волóкна",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Collagen_triple-helical_structure.png/1920px-Collagen_triple-helical_structure.png",
+    "SvenskaKort": "Kollagen är ett fiberprotein som utgör en tredjedel av allt protein hos däggdjur. Proteinet finns även i andra flercelliga djur. Kollagen finns framför allt i stödjevävnad som ben, hud, senor och blodkärlsväggar. Vanligt kollagen bildar fiberstrukturer som ger struktur, stadga och är mycket motståndskraftiga mot slitande krafter.",
+    "RyskaKort": "Коллаге́н — гликопротеин, фибриллярный белок, составляющий основу соединительной ткани организма (сухожилие, кость, хрящ, дерма и т. п.) и обеспечивающий её прочность и эластичность. Коллаген обнаружен у животных; отсутствует у растений, бактерий, вирусов, простейших и грибов[1]. ",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Kollagen",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Коллаген"
   },
   {
     "Svenska": "Kontraktionsförmåga",
     "Ryska": "Возможность к сокращению",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Skeletal_muscle.jpg/1280px-Skeletal_muscle.jpg",
+    "SvenskaKort": "Muskelkontraktion är den process varvid muskelvävnad kontraheras. Histologiskt består muskelvävnad av muskelfibrer som är mångkärniga, avlånga celler. Cellerna innehåller i sin tur myofibriller som är uppbyggda av sarkomerer",
+    "RyskaKort": "Мы́шечное сокраще́ние — реакция мышечных клеток на воздействие нейромедиатора, реже гормона, проявляющаяся в уменьшении длины клетки. Это жизненно важная функция организма, связанная с оборонительными, дыхательными, пищевыми, половыми, выделительными и другими физиологическими процессами.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Muskelkontraktion",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Мышечное_сокращение"
   },
   {
     "Svenska": "Kortlivade",
     "Ryska": "Недолговечныe",
     "ImgURL": " ",
-    "SvenskaKort": "  ",
+    "SvenskaKort": " ",
     "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "LinkSV": "https://sv.wiktionary.org/wiki/kortlivad",
+    "LinkRY": "https://ru.wiktionary.org/wiki/недолговечный"
   },
   {
     "Svenska": "Kromosomer",
     "Ryska": "Хромосомы",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chromosome.svg/800px-Chromosome.svg.png",
+    "SvenskaKort": "En kromosom är en struktur i cellen i vilken hela eller delar av genomet (arvsmassan) finns. Kromosomen innehåller en lång tråd av DNA.",
+    "RyskaKort": "Хромосо́мы (др.-греч. χρῶμα «цвет» + σῶμα «тело») — нуклеопротеидные структуры в ядре эукариотической клетки, в которых сосредоточена бо́льшая часть наследственной информации и которые предназначены для её хранения, реализации и передачи.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Kromosom",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Хромосома"
   },
   {
     "Svenska": "Kromosomuppsättning",
     "Ryska": "Набор хромосом",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/6/6e/PLoSBiol3.5.Fig1bNucleus46Chromosomes.jpg",
+    "SvenskaKort": "Hos människan är genomet fördelat på 46 kromosomer, det vill säga 23 kromosompar. Detta fastställdes 1956 av genetikern Johan Albert Levan och Joe Hin Tjio.",
+    "RyskaKort": "Нормальный кариотип человека представлен 46 хромосомами. Это 22 пары аутосом и одна пара половых хромосом (XY в мужском кариотипе и XX — в женском).",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Kromosom",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Хромосома"
   },
   {
     "Svenska": "Kärna",
