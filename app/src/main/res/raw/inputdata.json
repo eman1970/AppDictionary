@@ -218,11 +218,11 @@
   {
     "Svenska": "Inälvor",
     "Ryska": "Внутренные органы",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cut_rat_2.jpg",
+    "SvenskaKort": "Viscera, inälvor, (latin, pluralformen av viscus) är inom anatomin de inre organen i en människa eller ett djur, hos det senare ofta kallat innanmäte. Ofta syftar man på de organ som ligger i buken, det vill säga tarmar, magsäck etcetera.[1]",
+    "RyskaKort": "Вну́тренности, вну́тренние о́рганы, или висцера́льные органы (лат. viscera мн. ч. от viscus «внутренности», род. п. visceralis «внутренностный»; др.-греч. σπλάγχνον [splanchnon]) — органы животных (и человека), лежащие в основном в грудной и брюшной полостях, а именно органы дыхания, пищеварения, мочеполовые и сердечно-сосудистые. Внутренности и органы внутренней секреции изучаются спланхнологией.[1][2]",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Viscera",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Внутренности"
   },
   {
     "Svenska": "Kalciumfosfat",
