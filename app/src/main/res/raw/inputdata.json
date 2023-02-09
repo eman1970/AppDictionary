@@ -236,11 +236,11 @@
   {
     "Svenska": "Kalciumkarbonat",
     "Ryska": "Карбонат кальция",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/0/04/Calcium_carbonate.jpg",
+    "SvenskaKort": "Kalciumkarbonat, eller kolsyrad kalk (CaCO3), är i naturen ett mycket vanligt salt, som förekommer som aragonit, kalkspat, kalksten, krita och marmor, samt i märgel, dolomit m m.",
+    "RyskaKort": "Карбона́т ка́льция (углеки́слый кальций, кальцит, арагонит, известняк, мел, мрамор) — неорганическое химическое соединение, соль угольной кислоты и кальция. Химическая формула CaCO3.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Kalciumkarbonat",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Карбонат_кальция"
   },
   {
     "Svenska": "Kapsel",
