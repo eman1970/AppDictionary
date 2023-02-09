@@ -173,47 +173,47 @@
   {
     "Svenska": "Fortplantningsapparat",
     "Ryska": "Органы размножения",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://pwpt.ru/uploads/presentation_screenshots/3cc0c0285cf1448ed41c4f5f4ca167c8.JPG",
+    "SvenskaKort": "Fortplantningssystemet eller reproduktionsapparaten är det organsystem som används vid fortplantningen/reproduktionen.",
+    "RyskaKort": "Репродукти́вная систéма — система органов многоклеточных живых организмов (животных, растений, грибов и пр.), отвечающая за их половое размножение (воспроизводство, репродукцию, продолжение рода).",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Fortplantningssystemet",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Репродуктивная_система"
   },
   {
-    "Svenska": "Förbränning (energi i cellen)",
-    "Ryska": "Сжигание (энергии в клетке)",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "Svenska": "Förbränning (Cellandning)",
+    "Ryska": "Сжигание (Клеточное дыхание)",
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Shema_Glicozida.png/1024px-Shema_Glicozida.png",
+    "SvenskaKort": "Cellandning kan syfta på två närliggande begrepp. Ofta menar man all biologisk förbränning och energiutvinning. Rent vetenskapligt är cellandningen det sista steget i energiutvinningen, även kallad elektronkedjan (se elektrontransport och oxidativ fosforylering). ",
+    "RyskaKort": "Клеточное, или тканевое дыхание — совокупность биохимических реакций, протекающих в клетках живых организмов, в ходе которых происходит окисление углеводов, липидов и аминокислот до углекислого газа и воды, а также образование энергии.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Cellandning",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Клеточное_дыхание"
   },
   {
     "Svenska": "Glatt muskulatur",
     "Ryska": "Гладкая мускулатура",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Glatte_Muskelzellen.jpg",
+    "SvenskaKort": "Glatt muskulatur är icke-tvärstrimmig muskelvävnad, som styrs av det autonoma nervsystemet (ej viljestyrda). Glatt muskulatur består av glatta muskelceller (lat. leiomyocyt).",
+    "RyskaKort": "Гла́дкие мы́шцы — сократимая ткань, в отличие от поперечнополосатых мышц не имеющая поперечной исчерченности.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Glatt_muskulatur",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Гладкие_мышцы"
   },
   {
     "Svenska": "Gliaceller",
     "Ryska": "Глиальные клетки",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Glial_Cell_Types.png",
+    "SvenskaKort": "Gliaceller är en grupp av olika celltyper i nervsystemet. Det finns ungefär lika många gliaceller som nervceller i människans hjärna och antalet har uppskattats till ungefär 85 miljarder vardera.[1] Gliaceller har som funktion att omge nervceller och modulera framskridningen av nervimpulser, bidra med näring och syre till nervceller, och hjälpa till med läkningen av nervskador.[2]",
+    "RyskaKort": "Нейрогли́я, или просто гли́я (от др.-греч. νεῦρον — волокно, нерв + γλοιός — клей), — совокупность вспомогательных клеток нервной ткани[1]. Составляет около 40 % объёма ЦНС.",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Gliacell",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Нейроглия"
   },
   {
     "Svenska": "Godartad tumör",
     "Ryska": "Доброкачественная опухоль",
-    "ImgURL": " ",
-    "SvenskaKort": "  ",
-    "RyskaKort": " ",
-    "LinkSV": " ",
-    "LinkRY": " "
+    "ImgURL": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Canine_histiocytoma.jpg",
+    "SvenskaKort": "Benign tumör är, till skillnad från en malign tumör, en godartad tumör som inte sprider sig. En benign tumör kan likväl orsaka skada genom att den kan trycka in i omkringliggande vävnader och organ. Däremot tenderar den inte att metastasera, det vill säga sprida dottersvulster i kroppen, eller invadera vävnad.",
+    "RyskaKort": "Опухоли (лат. tumor, мн. ч. tumores) — патологические образования, возникающие вследствие нарушения механизмов контроля деления, роста и дифференцировки клеток. Клинически опухоли представляют собой очаги роста патологической (анормальной) ткани в различных органах и структурах организма[1].",
+    "LinkSV": "https://sv.wikipedia.org/wiki/Benign_tumör",
+    "LinkRY": "https://ru.wikipedia.org/wiki/Доброкачественная_опухоль"
   },
   {
     "Svenska": "Inälvor",
