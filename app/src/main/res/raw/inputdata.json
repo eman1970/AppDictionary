@@ -890,7 +890,6 @@
     "LinkSV": " ",
     "LinkRY": " "
   },
-
   {
     "Svenska": "Abnorm rörlighet",
     "Ryska": "Повышенная подвижность",
@@ -1217,6 +1216,7 @@
   },
   {
     "Svenska": "Blygdbensfog",
+    "Ryska": "Лобковый сустав",
     "ImgURL": "",
     "SvenskaKort": "",
     "RyskaKort": "",
@@ -1252,6 +1252,7 @@
   },
   {
     "Svenska": "Broskfog",
+    "Ryska": "Хрящевой сустав",
     "ImgURL": "",
     "SvenskaKort": "",
     "RyskaKort": "",
@@ -1333,14 +1334,6 @@
   {
     "Svenska": "Bålens muskler",
     "Ryska": "Мышцы тýловища",
-    "ImgURL": "",
-    "SvenskaKort": "",
-    "RyskaKort": "",
-    "LinkSV": "",
-    "LinkRY": ""
-  },
-  {
-    "Svenska": "Bålväggen",
     "ImgURL": "",
     "SvenskaKort": "",
     "RyskaKort": "",
@@ -1448,6 +1441,7 @@
   },
   {
     "Svenska": "Distortion",
+    "Ryska": "Искажение, искривление",
     "ImgURL": "",
     "SvenskaKort": "",
     "RyskaKort": "",
@@ -1725,14 +1719,6 @@
     "LinkRY": ""
   },
   {
-    "Svenska": "Grundfalang",
-    "ImgURL": "",
-    "SvenskaKort": "",
-    "RyskaKort": "",
-    "LinkSV": "",
-    "LinkRY": ""
-  },
-  {
     "Svenska": "Gul benmärg",
     "Ryska": "Желтый костный мозг",
     "ImgURL": "",
@@ -1832,14 +1818,6 @@
     "LinkRY": ""
   },
   {
-    "Svenska": "Handlov",
-    "ImgURL": "",
-    "SvenskaKort": "",
-    "RyskaKort": "",
-    "LinkSV": "",
-    "LinkRY": ""
-  },
-  {
     "Svenska": "Handrot",
     "Ryska": "Ручной корень",
     "ImgURL": "",
@@ -1850,6 +1828,7 @@
   },
   {
     "Svenska": "Hjärnskålsskellett",
+    "Ryska": "Скелет черепа",
     "ImgURL": "",
     "SvenskaKort": "",
     "RyskaKort": "",
@@ -2101,6 +2080,7 @@
   },
   {
     "Svenska": "Kollagen bindväv",
+    "Ryska": "Коллагеновая соединительная ткань",
     "ImgURL": "",
     "SvenskaKort": "",
     "RyskaKort": "",
@@ -2146,14 +2126,6 @@
   {
     "Svenska": "Kontaktpunkt",
     "Ryska": "Точка прикосновения, контактный пункт",
-    "ImgURL": "",
-    "SvenskaKort": "",
-    "RyskaKort": "",
-    "LinkSV": "",
-    "LinkRY": ""
-  },
-  {
-    "Svenska": "Kontraheras",
     "ImgURL": "",
     "SvenskaKort": "",
     "RyskaKort": "",
@@ -2251,14 +2223,6 @@
     "LinkRY": ""
   },
   {
-    "Svenska": "Strålar ned",
-    "ImgURL": "",
-    "SvenskaKort": "",
-    "RyskaKort": "",
-    "LinkSV": "",
-    "LinkRY": ""
-  },
-  {
     "Svenska": "Strålbehandling",
     "Ryska": "Лучевая терапия",
     "ImgURL": "",
@@ -2279,14 +2243,6 @@
   {
     "Svenska": "Sträck",
     "Ryska": "Растяжка",
-    "ImgURL": "",
-    "SvenskaKort": "",
-    "RyskaKort": "",
-    "LinkSV": "",
-    "LinkRY": ""
-  },
-  {
-    "Svenska": "Sträckare",
     "ImgURL": "",
     "SvenskaKort": "",
     "RyskaKort": "",
@@ -2358,14 +2314,7 @@
   },
   {
     "Svenska": "Symfyser",
-    "ImgURL": "",
-    "SvenskaKort": "",
-    "RyskaKort": "",
-    "LinkSV": "",
-    "LinkRY": ""
-  },
-  {
-    "Svenska": "Synovian",
+    "Ryska": "Симфизы",
     "ImgURL": "",
     "SvenskaKort": "",
     "RyskaKort": "",
@@ -2551,7 +2500,1947 @@
     "RyskaKort": "",
     "LinkSV": "",
     "LinkRY": ""
+  },
+
+  {
+    "Svenska": "Ackomodation",
+    "Ryska": "Проживание, аккомодация",
+    "ImgURL": " ",
+    "SvenskaKort": " ",
+    "RyskaKort": " ",
+    "LinkSV": " ",
+    "LinkRY": " "
+  },
+  {
+    "Svenska": "Adaptionsförmåga",
+    "Ryska": "Адаптивность, приспособляемость, способность к адаптации",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Alkoholmissbruk",
+    "Ryska": "Злоупотребление алкоголем",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Allergi",
+    "Ryska": "Аллергия",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Anlag",
+    "Ryska": "Предрасположение, предрасполóженность",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Astigmatism",
+    "Ryska": "Астигматизм",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Audiometer",
+    "Ryska": "Аудиóметр",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Avbildas",
+    "Ryska": "Изображать",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Avflöde",
+    "Ryska": "Отток",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Avhjälpas",
+    "Ryska": "Исправить",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Bakre ögonkammaren",
+    "Ryska": "Задная камера глаза",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Bakteriedödande",
+    "Ryska": "Бактерицидное",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Balans",
+    "Ryska": "Баланс, равновесие",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Balansnerv",
+    "Ryska": "Нерв баланса, балансный нерв",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Balansorgan",
+    "Ryska": "Органы баланса \/ равновесия",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Balanssinnesnerver",
+    "Ryska": "Клетки чуств баланса",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Balanssymtom",
+    "Ryska": "Симптомы баланса",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Benlabyrinten",
+    "Ryska": "Костный лабиринт",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Bensnäckan",
+    "Ryska": "Улитка",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Beskt",
+    "Ryska": "Горький",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Bindehinna",
+    "Ryska": "Конъюнктива",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Blefarit",
+    "Ryska": "Блефарит",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Blinda fläcken",
+    "Ryska": "Слепое пятно",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Blindhet",
+    "Ryska": "Слепотá",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Bländaren",
+    "Ryska": "Диафрагма",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Brytningsfel",
+    "Ryska": "Дефекты преломления, ошибка рефракции",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Bränna fast",
+    "Ryska": "Прижечь",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Bukta in",
+    "Ryska": "Вогнутые",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Bukta ut",
+    "Ryska": "Выгнутые",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Buller",
+    "Ryska": "Шум",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Båggångar",
+    "Ryska": "Полукружные каналцы",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Chorioidit",
+    "Ryska": "Хориоидит",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Detaljseende",
+    "Ryska": "Чёткое \/ центральное зрение",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Dövhet",
+    "Ryska": "Глухотá",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Eksem",
+    "Ryska": "Экзема",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Elasticitet",
+    "Ryska": "Эластичность",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Elastisk kropp",
+    "Ryska": "Эластичное тело",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Endolyma",
+    "Ryska": "Эндолима",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Extern otit (Inflammation i ytterörat)",
+    "Ryska": "Внешний отит (Воспаление внешнего уха)",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Fjärrseende",
+    "Ryska": "Зрение на расстоянии, дальное зрение",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Fortleder",
+    "Ryska": "Передаёт",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Fritiden",
+    "Ryska": "Свободное время, досýг",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Främmande kroppar",
+    "Ryska": "Инородные тела, чужородные тела",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Främre ögonkammaren",
+    "Ryska": "Передняя камера глаза",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Färgblindhet",
+    "Ryska": "Дальтонизм",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Föra anlaget",
+    "Ryska": "Передавать, предрасположен",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Förgiftningar",
+    "Ryska": "Интоксикации, отравления",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Förnimmelser",
+    "Ryska": "Ощущения",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Förskjuts",
+    "Ryska": "Отодвигать, сдвигать",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Genomborrning",
+    "Ryska": "Прободение ",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Glaskroppen",
+    "Ryska": "Стекловидное тело",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Glasögon",
+    "Ryska": "Очки",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Glaukom",
+    "Ryska": "Глаукома",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Gonokocker",
+    "Ryska": "Гонококки",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Grumlingar",
+    "Ryska": "Помутнения",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Grå starr (Inflammation i linsen)",
+    "Ryska": "Катаракта (Воспаление хрусталика)",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Grön starr",
+    "Ryska": "Глаукома",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Gula fläcken",
+    "Ryska": "Желтое пятно",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Gångsystem",
+    "Ryska": "Система ходов",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hammaren",
+    "Ryska": "Молоточек",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hinnbåggångar",
+    "Ryska": "Оболочечные полукруглные канальцы",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hinnklädd",
+    "Ryska": "Покрытый оболочкой",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hjälporgan",
+    "Ryska": "Вспомогательные органы",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hornhinna",
+    "Ryska": "Роговица",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hypofys",
+    "Ryska": "Гипóфиз",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Högt blodtryck",
+    "Ryska": "Высокое артериальное давление",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hörselben",
+    "Ryska": "Слуховая косточка",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hörselcentrum",
+    "Ryska": "Слуховой центр",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hörselgångfurunkel",
+    "Ryska": "Фурункул слухового прохода",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hörselnedsättning",
+    "Ryska": "Понижение \/ снижение слуха",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hörselnerv",
+    "Ryska": "Слуховой нерв",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hörselorgan",
+    "Ryska": "Органы слуха",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hörselsinne",
+    "Ryska": "Слух",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hörselsinnesceller",
+    "Ryska": "Слуховые рецепторы \/ клетки",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hörselskador",
+    "Ryska": "Повреждения слуха",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Hörselsymtom",
+    "Ryska": "Симптом дефекта слуховой функции",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Indroppning",
+    "Ryska": "Закапливание",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Innerörat",
+    "Ryska": "Внутренное ухо",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Irit (Inflammation i iris)",
+    "Ryska": "Ирит (Воспаление радужная оболочка)",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Jämviktssinne",
+    "Ryska": "Чувство равновесия",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Kammarvatten",
+    "Ryska": "Водянистая влага",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Katarakt (Grå starr)",
+    "Ryska": "Катаракта (Помутнение хрусталика)",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Konjunktiva",
+    "Ryska": "Сослагательные",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Konjunktivit",
+    "Ryska": "Конъюнктивит",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Konkava linser",
+    "Ryska": "Вогнутые линзы",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Kontraheras",
+    "Ryska": "Сокращаться",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Konversationsstämma",
+    "Ryska": "Голос обычной громкости",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Konvexa linser",
+    "Ryska": "Выпухлые линзы",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Känselorganet",
+    "Ryska": "Орган чувств",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Labyrinten",
+    "Ryska": "Лабиринт",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Labyrintit (Inflammation i innerörat)",
+    "Ryska": "Лабиринтит (Воспаление внутренного уха)",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Lapislösning",
+    "Ryska": "Раствор лазурита",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Linsen",
+    "Ryska": "Хрустáлик",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ljudvågor",
+    "Ryska": "Звуковые волны",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ljusbryting",
+    "Ryska": "Преломление света",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ljusretningar",
+    "Ryska": "Световые раздражения",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ljusstrålar",
+    "Ryska": "Световые лучи",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Lodrätt riktning",
+    "Ryska": "Вертикальное направление",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Lossnar",
+    "Ryska": "Отслоение",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Luftfylld",
+    "Ryska": "Наполненные воздухом",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Luktcentrum",
+    "Ryska": "Центр обояния",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Lukter",
+    "Ryska": "Запахи",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Luktorgan",
+    "Ryska": "Органы обоняния",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Luktsinne",
+    "Ryska": "Обоняние",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Luktsinnesceller",
+    "Ryska": "Обонятельные клетки",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Långsynthet",
+    "Ryska": "Дальнозоркость",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Lömsk",
+    "Ryska": "Коварный",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Mellanörat",
+    "Ryska": "Среднее ухо",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Mellanöroninflammation",
+    "Ryska": "Средний отит, воспаление среднего уха",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ménières sjukdom",
+    "Ryska": "Болезнь Меньера",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Nervretning",
+    "Ryska": "Импульс, раздражение нерва",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Njurinflammation",
+    "Ryska": "Воспаление почки, нефрит",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Närseende",
+    "Ryska": "Ближнее зрение",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Närsynthet",
+    "Ryska": "Близкорукость ",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Näthinna",
+    "Ryska": "Сетчатка",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Näthinneavlossning",
+    "Ryska": "Отслоение сетчатки",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Optiskt system",
+    "Ryska": "Оптическая система",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Oskarp bild",
+    "Ryska": "Нечёткое изображение",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Osteit",
+    "Ryska": "Воспаление кости, остеит",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Otitis interna",
+    "Ryska": "Внешний отит",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Otitis media",
+    "Ryska": "Внутренний отит",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Otoskopi",
+    "Ryska": "Отоскопия",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ovala fönstret",
+    "Ryska": "Овальное окно",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Paracentes (Punktering)",
+    "Ryska": "Парацентез (Прокол)",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Perforation (Perforering)",
+    "Ryska": "Перфорация (Проводение)",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Perilymfa",
+    "Ryska": "Перилимфа",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Pigment",
+    "Ryska": "Пигменты",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Pupill",
+    "Ryska": "Зрачок",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "På nära håll",
+    "Ryska": "На близком расстоянии",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Regnbågshinna",
+    "Ryska": "Рáдужная оболочка",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Retinit",
+    "Ryska": "Воспаление сетчатки",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ringformad muskel",
+    "Ryska": "Кольцевидная мышца",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Runda fönstret",
+    "Ryska": "Круглое окно",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Salt",
+    "Ryska": "Соль",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Senhinna",
+    "Ryska": "Склéра",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Sinnesceller",
+    "Ryska": "Рецепторы",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Sinnescentra",
+    "Ryska": "Центр связан с органами чувств ",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Sinnesorgan",
+    "Ryska": "Органы чувств",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Sjukliga förändringar",
+    "Ryska": "Болезненные изменения",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Skarp bild",
+    "Ryska": "Четкое изображение",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Skelögdhet",
+    "Ryska": "Косоглазие",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Slappas",
+    "Ryska": "Расслабляться",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Smakcentrum",
+    "Ryska": "Вкусовóй центр",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Smaklökar",
+    "Ryska": "Вкусовые рецепторы",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Smakorganet",
+    "Ryska": "Орган вкуса",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Smaksinnet",
+    "Ryska": "Чувствa вкуса",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Smaksinnesceller",
+    "Ryska": "Вкусовые рецепторы",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Snäckan",
+    "Ryska": "Улитка",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Sockersjuka",
+    "Ryska": "Сахарный диабет",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Springan",
+    "Ryska": "Щель",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Spolformade kroppar",
+    "Ryska": "Веретенообразные тела, тела в форме катушки",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Spolning",
+    "Ryska": "проматывание",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Stavar",
+    "Ryska": "Стержни",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Stigbygeln",
+    "Ryska": "Стемечко",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Streptomycin",
+    "Ryska": "Стрептомицин",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Strålkroppen",
+    "Ryska": "Корпус балки",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Städet",
+    "Ryska": "Наковальня",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Surt",
+    "Ryska": "Кисло",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Svänga",
+    "Ryska": "Колебаться",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Sympatisk ögoninflammation",
+    "Ryska": "Симпатическое воспаление глаз",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Syncentrum",
+    "Ryska": "Зрительный центр (мозга)",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Synnedsättning",
+    "Ryska": "Понижение зрения",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Synnerv",
+    "Ryska": "Зрительный нерв",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Synnervskorsning",
+    "Ryska": "Перекрёсток зрительного нерва",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Synnervsskador",
+    "Ryska": "Порвреждение зрительного нерва",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Synnervsceller",
+    "Ryska": "Зрительные рецепторы",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Synskärpa",
+    "Ryska": "Острота зрения",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Sött",
+    "Ryska": "Сладко",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Trumhinna",
+    "Ryska": "Барабанная перепонка",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Trumhinnesnitt",
+    "Ryska": "Разрез барабанной перепонки",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Trådar",
+    "Ryska": "Нитки",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Träsprit",
+    "Ryska": "Метиловый спирт",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Tungpapiller",
+    "Ryska": "Сóсочки языка",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Tungryggen",
+    "Ryska": "Спинка языка",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Tårapparat",
+    "Ryska": "Слезные органы",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Tårkanal",
+    "Ryska": "Слезный каналец \/ проток",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Tårkörtel",
+    "Ryska": "Слезная железа",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Tårvägar",
+    "Ryska": "Слезные пути",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Tårvätska",
+    "Ryska": "Слезная жидкость ",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Underlag",
+    "Ryska": "Основание, подкладки",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Uppfånga",
+    "Ryska": "Улавливать ",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Upptagande",
+    "Ryska": "Усвоение, воспринятие",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Vagel",
+    "Ryska": "Ячмéнь",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Varig infammation",
+    "Ryska": "Гнойное воспаление",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Vaxavsöndring",
+    "Ryska": "Восковая секреция",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Vaxpropp",
+    "Ryska": "Восковая пробка",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Vertigo",
+    "Ryska": "Головокружение",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Vibrera",
+    "Ryska": "Вибрация",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Vinkelrätt",
+    "Ryska": "Перпендикулярный",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Viskstämma (Viskning)",
+    "Ryska": "Шепчущий голос (Шепот)",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Vågrätt riktning",
+    "Ryska": "Горизонтальное направление",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Välvd",
+    "Ryska": "Арочный, сводчатый",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Vätskefylld",
+    "Ryska": "Наполнен жидкостю",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Yrsel",
+    "Ryska": "Головокружение",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ytternäsan",
+    "Ryska": "Внешний нос",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Yttre hörsegången",
+    "Ryska": "Наружный \/ внешний слуховой проход",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Åderhinna",
+    "Ryska": "Сосудная оболочка",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Åkomma",
+    "Ryska": "Заболевание",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Åldersförändring",
+    "Ryska": "Возрастное изменение",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ärftligt betingat",
+    "Ryska": "Наследственное",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ögat",
+    "Ryska": "Глаз",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ögonglob",
+    "Ryska": "Глазное яблоко",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ögonhåla",
+    "Ryska": "Глазная впадина, глазница",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ögonlocken",
+    "Ryska": "Веки",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ögonmuskler",
+    "Ryska": "Глазные мышцы",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ögonsjukdomar",
+    "Ryska": "Заболевания органов зрения",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ögonskador",
+    "Ryska": "Травмы глаз",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Ögonvita",
+    "Ryska": "Белок глаза",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Örat",
+    "Ryska": "Ухо",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Öronmussla",
+    "Ryska": "Ушная раковина",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Öronsjukdomar",
+    "Ryska": "Заболевания уха",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Öronsusningar",
+    "Ryska": "Шум в ушах",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Örontrumpeten",
+    "Ryska": "Евстахиева труба",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Överkänslighet",
+    "Ryska": "Гиперчувствительность, повышенная чувствительность",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
+  },
+  {
+    "Svenska": "Översynthet",
+    "Ryska": "Дальнозоркость",
+    "ImgURL": "#",
+    "SvenskaKort": "#",
+    "RyskaKort": "#",
+    "LinkSV": "#",
+    "LinkRY": "#"
   }
+
+
+
+
 
 
 ]
